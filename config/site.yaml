@@ -1,0 +1,21 @@
+title: PinPress
+description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+author:
+  name: Grav
+  email: 'joe@test.com'
+  url: http://getgrav.org/
+  logo:
+  gravatar: contact@getgrav.org
+  description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+blog:
+  route: ''
+metadata:
+    description: 'Pinpress is a minimal Theme designed for blogger, converted to Grav.'
+taxonomies: [category,tag,month]
+
+menu:
+  - url: error
+    text: Error Page
+
+# Copyright
+copyright: Created By <a href="http://www.soratemplates.com/" rel="dofollow" target="_blank" title="Blogger Templates">Sora Templates</a> and <a href="http://mybloggerthemes.com/" rel="dofollow" target="_blank" title="Blogger Templates">My Blogger Themes</a> , Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>

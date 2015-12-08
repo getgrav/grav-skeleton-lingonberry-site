@@ -1,0 +1,24 @@
+{
+   "project":"grav-skeleton-pinpress-blog",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "pinpress theme":[{
+               "project":"grav-theme-pinpress"
+            }]
+         }
+      }
+   }
+}

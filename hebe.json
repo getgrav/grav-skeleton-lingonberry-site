@@ -1,5 +1,5 @@
 {
-   "project":"grav-skeleton-pinpress-blog",
+   "project":"grav-skeleton-lingonberry-blog",
    "platforms":{
       "grav":{
          "nodes":{
@@ -15,8 +15,8 @@
             "problems plugin":[{
                "project":"grav-plugin-problems"
             }],
-            "pinpress theme":[{
-               "project":"grav-theme-pinpress"
+            "lingonberry theme":[{
+               "project":"grav-theme-lingonberry"
             }]
          }
       }

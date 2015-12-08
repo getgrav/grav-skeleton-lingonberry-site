@@ -2,7 +2,7 @@ home:
   alias: '/blog'
 
 pages:
-  theme: pinpress
+  theme: lingonberry
   process:
     markdown: true
     twig: false

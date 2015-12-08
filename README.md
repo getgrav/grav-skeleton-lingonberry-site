@@ -1,8 +1,8 @@
-# Pinpress Skeleton for Grav
+# Lingonberry Skeleton for Grav
 
-![Pinpress](assets/readme_1.png)
+![Lingonberry](assets/readme_1.png)
 
-PinPress is a creative Flat Blog/Magazine grav theme and it is the perfect choice for professionals who’s looking for a magazine theme or a personal, niche, corporate, and marketing blogs. PinPress grav theme is highly customizable so it can match your personal taste and be quickly converted into a multi-purpose theme as well. It's a port of PinPress blogger template by [Sora Templates](http://www.soratemplates.com/).
+A clean and simple theme for bloggers, with responsive design and beautiful typography by [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/).
 
 # Features
 
@@ -25,9 +25,9 @@ PinPress is a creative Flat Blog/Magazine grav theme and it is the perfect choic
 
 ## Basic Setup for a new Grav site
 
-The simplest way to install Pinpress theme for Grav is to download and install the Pinpress Skeleton package:
+The simplest way to install Lingonberry theme for Grav is to download and install the Lingonberry Skeleton package:
 
-1. [Download Pinpress Skeleton](http://getgrav.org/downloads/skeletons#extras)
+1. [Download Lingonberry Skeleton](http://getgrav.org/downloads/skeletons#extras)
 2. Simply unzip the package into your web root folder.
 3. Point your browser at the folder, job done!
 
@@ -37,10 +37,10 @@ The simplest way to install Pinpress theme for Grav is to download and install t
 
 ## Existing Grav site
 
-It is possible to install just the theme, but page content will need to reference the [Pinpress theme](https://github.com/getgrav/grav-theme-pinpress)'s supported templates.  It is strongly advised to at least install the Pinpress Skeleton package to see the theme's capabilities in action.
+It is possible to install just the theme, but page content will need to reference the [Lingonberry theme](https://github.com/getgrav/grav-theme-lingonberry)'s supported templates.  It is strongly advised to at least install the Lingonberry Skeleton package to see the theme's capabilities in action.
 
 To install  **just** the theme:
 
 ```
-$ bin/gpm install pinpress
+$ bin/gpm install lingonberry
 ```

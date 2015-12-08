@@ -43,9 +43,9 @@ git:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
         branch: master
-    pinpress:
-        url: https://github.com/getgrav/grav-theme-pinpress
-        path: user/themes/pinpress
+    lingonberry:
+        url: https://github.com/getgrav/grav-theme-lingonberry
+        path: user/themes/lingonberry
         branch: master
 links:
     error:
@@ -92,7 +92,7 @@ links:
         src: grav-plugin-archives
         path: user/plugins/archives
         scm: github
-    pinpress:
-        src: grav-theme-pinpress
-        path: user/themes/pinpress
+    lingonberry:
+        src: grav-theme-lingonberry
+        path: user/themes/lingonberry
         scm: github

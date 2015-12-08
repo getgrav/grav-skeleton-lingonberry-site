@@ -1,4 +1,4 @@
-title: PinPress
+title: Lingonberry
 description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
 author:
   name: Grav
@@ -10,7 +10,7 @@ author:
 blog:
   route: ''
 metadata:
-    description: 'Pinpress is a minimal Theme designed for blogger, converted to Grav.'
+    description: 'Lingonberry is a minimal Theme designed for blogger, converted to Grav.'
 taxonomies: [category,tag,month]
 
 menu:

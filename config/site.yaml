@@ -3,9 +3,8 @@ description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusc
 author:
   name: Grav
   email: 'joe@test.com'
-  url: http://getgrav.org/
-  logo:
-  gravatar: contact@getgrav.org
+  url:
+  gravatar: hexplor@gmail.com
   description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
 blog:
   route: ''

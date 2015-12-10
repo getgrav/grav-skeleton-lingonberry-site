@@ -1,6 +1,7 @@
 ---
 title: Papilion minter savior
 date: 14:55 08/31/2014
+sticky: true
 author:
   name: Tasha Maxwell
   description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."

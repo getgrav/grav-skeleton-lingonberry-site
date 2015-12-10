@@ -10,6 +10,7 @@ author:
 taxonomy:
     category: blog
     tag: [technology]
+body_classes: single single-post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie augue ac enim ultricies mattis ut ac massa. Ut malesuada bibendum felis sit amet aliquam. In facilisis nunc id velit egestas luctus. Aliquam dictum dolor et eros sagittis gravida. Vivamus aliquam rutrum fermentum. Pellentesque a eros quis ipsum molestie fringilla. Integer cursus augue in tellus sodales adipiscing. Integer nec orci bibendum, accumsan mauris vel, consequat orci. Aenean ullamcorper nulla lorem, eu auctor libero tincidunt ac. In volutpat semper nibh eleifend elementum. Nullam pharetra ante vitae posuere congue. Donec euismod rutrum metus, eu tempor est molestie ut. Proin vitae elit eu neque ullamcorper sollicitudin. Duis malesuada sapien id dolor ultrices, vitae molestie augue congue. Vivamus neque felis, bibendum sit amet ante non, bibendum ullamcorper ipsum.

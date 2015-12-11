@@ -17,4 +17,6 @@ menu:
     text: Error Page
 
 # Copyright
-copyright: Created By <a href="http://www.soratemplates.com/" rel="dofollow" target="_blank" title="Blogger Templates">Sora Templates</a> and <a href="http://mybloggerthemes.com/" rel="dofollow" target="_blank" title="Blogger Templates">My Blogger Themes</a> , Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>
+copyright:
+  left: <span>Copyright</span> © 2015 <a href="http://andersnoren.se/themes/lingonberry/" title="Lingonberry">Lingonberry</a>, Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>
+  right: <span>Theme by <a href="http://www.andersnoren.se">Anders Noren</a> — </span><a title="To the top" class="tothetop">Up ↑</a>

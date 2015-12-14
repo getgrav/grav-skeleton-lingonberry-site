@@ -12,6 +12,9 @@ metadata:
     description: 'Lingonberry is a minimal Theme designed for blogger, converted to Grav.'
 taxonomies: [category,tag,month]
 
+# Show calendar in sidebar
+calendar: true 
+
 menu:
   - url: error
     text: Error Page

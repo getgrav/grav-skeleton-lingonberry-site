@@ -16,4 +16,4 @@ type: chat
 
 **Dave Moss**: Yeah.
 
-**Blake**: That watch costs more than you car. I made $970,000 last year. How much you make? You see pal, that’s who I am, and you’re nothing. Nice guy? I don’t give a shit. Good father? **** you! Go home and play with your kids. You wanna work here – close! You think this is abuse? You think this is abuse, you *********? You can’t take this, how can you take the abuse you get on a sit? You don’t like it, leave.
+**Blake**: That watch costs more than you car. I made $970,000 last year. How much you make? You see pal, that’s who I am, and you’re nothing. Nice guy? I don’t give a shit. Good father? ----- you! Go home and play with your kids. You wanna work here – close! You think this is abuse? You think this is abuse, you ----------? You can’t take this, how can you take the abuse you get on a sit? You don’t like it, leave.

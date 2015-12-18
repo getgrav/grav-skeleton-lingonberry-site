@@ -48,4 +48,5 @@ form:
             body: "{% include 'forms/data.txt.twig' %}"
         - message: Thank you for your feedback!
         - display: thankyou
+body_classes: page page-template-default
 ---

@@ -1,0 +1,25 @@
+title: Lingonberry
+description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+author:
+  name: Grav
+  email: 'joe@test.com'
+  url:
+  gravatar: hexplor@gmail.com
+  description: "Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
+blog:
+  route: ''
+metadata:
+    description: 'Lingonberry is a minimal Theme designed for blogger, converted to Grav.'
+taxonomies: [category,tag,month]
+
+# Show calendar in sidebar
+calendar: true 
+
+menu:
+  - url: error
+    text: Error Page
+
+# Copyright
+copyright:
+  left: <span>Copyright</span> © 2015 <a href="http://andersnoren.se/themes/lingonberry/" title="Lingonberry">Lingonberry</a>, Ported By <a href="http://www.getgrav.org" rel="dofollow" target="_blank" title="Grav">Grav Team</a>
+  right: <span>Theme by <a href="http://www.andersnoren.se">Anders Noren</a> — </span><a title="To the top" class="tothetop">Up ↑</a>

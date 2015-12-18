@@ -1,0 +1,13 @@
+name: Lingonberry Site
+version: 1.0.0
+description: "A clean and simple theme for bloggers, with responsive design and beautiful typography."
+icon: newspaper-o
+author:
+  name: Team Grav
+  email: devs@getgrav.org
+  url: http://getgrav.org
+homepage: https://github.com/getgrav/grav-skeleton-lingonberry-blog
+demo: http://demo.getgrav.org/lingonberry-skeleton
+keywords: lingonberry, skeleton, single, page, modular, blog
+bugs: https://github.com/getgrav/grav-skeleton-lingonberry-blog/issues
+license: GPL

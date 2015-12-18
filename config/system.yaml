@@ -1,0 +1,10 @@
+home:
+  alias: '/blog'
+
+pages:
+  theme: lingonberry
+  process:
+    markdown: true
+    twig: false
+  markdown:
+    extra: true

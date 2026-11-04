@@ -1,3 +1,9 @@
+# v1.0.2
+## 11/04/2026
+
+1. [](#bugfix)
+    * The skeleton shipped a `config/security.yaml` holding a generated `salt`, so every site installed from it started with the same private key. It's removed, and Grav generates a key of its own for each site on install
+
 # v1.0.1
 ## 10/24/2026
 

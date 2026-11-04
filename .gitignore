@@ -1,0 +1,3 @@
+
+# Grav generates the site key on install; it is never shipped
+/config/security-private.php
